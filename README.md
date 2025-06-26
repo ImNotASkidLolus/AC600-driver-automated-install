@@ -1,3 +1,6 @@
+BASED ON https://github.com/aircrack-ng/rtl8812au.git
+
+
 ITS ONLY FOR RASPBERRY PI!!!
 
 
